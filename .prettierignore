@@ -1,0 +1,23 @@
+# Dependencies and build output
+node_modules/
+dist/
+build/
+
+# Lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+bun.lock
+
+# Assets
+public/*.glb
+public/*.gif
+public/*.ttf
+public/*.webp
+public/*.png
+public/*.svg
+
+# Misc
+.vscode/
+.idea/
+.DS_Store
